@@ -31,7 +31,7 @@ function Chart(props) {
           height={400}
           width={600}
           data={{
-            labels: ["2014-12-29", "2017-01-30	"],
+            labels: ["2014-01-30","2016-01-30", "2017-01-30"],
             datasets: [
               {
                 label: "EUR",
